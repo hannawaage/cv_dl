@@ -1,5 +1,8 @@
 # Computer vision and deep learning
-Repository for the assignments of TDT4265 Computer vision and deep learning
+Repository for the assignments and main project of TDT4265 Computer vision and deep learning.
+
+# Project: using Unet2D for medcal segmentation
+This project counted for 50% of the grade in the subject. It was a project over 5 weeks where the goal was to perform medical segmentation of ultrasound images and improve the model dice score.
 
 # Assignment 1: 
 In this assignment we will explore the power of gradient descent to perform binary classification with Logistic Regression. Then, we will explore multi-class classification with Softmax Regression on the MNIST dataset. Further, we will experiment with weight regularization through L2 norm, simple visualization of weights and basic visualization to present the result.
