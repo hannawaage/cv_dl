@@ -1,7 +1,7 @@
 # Computer vision and deep learning
 Repository for the assignments and main project of TDT4265 Computer vision and deep learning.
 
-# Project: using Unet2D for medcal segmentation
+# Project: using Unet2D for medical segmentation
 This project counted for 50% of the grade in the subject. It was a project over 5 weeks where the goal was to perform medical segmentation of ultrasound images and improve the model dice score.
 
 # Assignment 1: 
